@@ -1,8 +1,8 @@
 # nies.futbol
 
-- [⚽ Blog](nies.futbol)
-- [🏠 Página de inicio](niesfutbol.com)
-- [🇲🇽 Portada para México](niesfutbol.com.mx)
-- [📊 Nepo Index for Entertainment and Sports](niesfutbol.app)
-- [🧑‍💻 Perfil en GitHub](niesfutbol.dev)
-- [✉️ Boletín de novedades](niesfutbol.soccer)
+- [⚽ Blog](https://nies.futbol)
+- [🏠 Página de inicio](https://niesfutbol.com)
+- [🇲🇽 Portada para México](https://niesfutbol.com.mx)
+- [📊 Nepo Index for Entertainment and Sports](https://www.niesfutbol.app)
+- [🧑‍💻 Perfil en GitHub](https://niesfutbol.dev)
+- [✉️ Boletín de novedades](https://niesfutbol.soccer)
